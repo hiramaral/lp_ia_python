@@ -1,7 +1,8 @@
 # lp_ia_python
 Repository of the CETAM 2022 Programming Logic module.
 PLANO DE AULA
-1. AULA 01 – VISÃO GERAL DO MÓDULO E DA ESTRATÉGIA DE ESTUDO
+
+AULA 01 – VISÃO GERAL DO MÓDULO E DA ESTRATÉGIA DE ESTUDO
 1.1 Principais carreiras na área de IA; 
 1.2 Principais Aplicações de IA no mundo real; 
 1.3 Introdução a lógica de programação; 
@@ -16,7 +17,8 @@ PLANO DE AULA
 1.12 Fundamentos teóricos e práticos de IA; 
 1.13 Fundamentos de ciência de dados; 
 1.14 Principais ferramentas de desenvolvimento utilizadas em IA; 
-2. AULA 02 – AMBIENTE DE DESENVOLVIMENTO
+
+AULA 02 – AMBIENTE DE DESENVOLVIMENTO
 2.1 Preparação de Ambiente Python;
 2.2 Ambientes Virtuais;
 2.3 Anaconda
