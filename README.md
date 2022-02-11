@@ -34,6 +34,7 @@ Welcome to Python.org
 2.10	- Visualg
 2.11	- Classroom
 2.12 LÓGICA DE PROGRAMAÇÃO PARA IA COM PYTHON TECNOLOGIA DA INFORMAÇÃO E COMPUTAÇÃO (google.com)
+
 AULA 03 - Algoritmos
 3. Conceitos e implementações de algoritmos 
 3.1 Conceitos fundamentais 
