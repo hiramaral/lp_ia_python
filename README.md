@@ -42,6 +42,7 @@ AULA 03 - Algoritmos
 3.6 Funções primitivas 
 3.7 Estruturas condicionais 
 3.8 Estruturas de repetição
+
 AULA 04 – OPERAÇÕES ARITMÉTICAS
 4.1 Operações Aritméticas;
 4.2 Variáveis;
@@ -51,6 +52,7 @@ AULA 04 – OPERAÇÕES ARITMÉTICAS
 4.6 Estruturas Condicionais;
 4.7 Laços;
 4.8 Funções básicas em python; 
+
 AULA 05 - OPERAÇÕES ARITMÉTICAS
 5.1 Operações Aritméticas;
 5.2 Variáveis;
@@ -60,12 +62,14 @@ AULA 05 - OPERAÇÕES ARITMÉTICAS
 5.6 Estruturas Condicionais;
 5.7 Laços;
 5.7 Funções básicas em python; 
+
 AULA 06 - Linguagem de Programação Python -Introdução:
 6.1 Preparação de Ambiente Python;
 6.2 Ambientes Virtuais;
 6.3 Anaconda 
 6.4 Google Colab Notebook;
 6.5 Instalação de Bibliotecas;
+
 AULA 07 – Linguagem de Programação Python
 7.1 Operações Aritméticas;
 7.2 Variáveis;
@@ -75,10 +79,12 @@ AULA 07 – Linguagem de Programação Python
 7.6 Estruturas Condicionais;
 7.7 Laços;
 7.8 Funções;
+
 AULA 08: Análise e Visualização de Dados:
 8.1 Numpy;
 8.2 Pandas;
 8.3 Matplotlib;
+
 AULA 09 – SCKIT-LEARN ESTRATÉGIA DE PROJETO
 9.1 Introdução a classificação com Biblioteca SCKIT-LEARN
 9.2 PROJETO DE MACHILE LEARNING EM 6 PASSOS
@@ -95,16 +101,20 @@ AULA 09 – SCKIT-LEARN ESTRATÉGIA DE PROJETO
 		Textos >> dados
 		Customizar transformações
 		Normalizar os dados
+		
 AULA 10 - PANDAS
 10.1 Importação, manipulação e visualização de dados usando as principais bibliotecas
-10.2 Exercícios com Pandas      
+10.2 Exercícios com Pandas 
+
 AULA 11  - NUMPY                                                                                                                                                                                                                                                                                                
 11.1 Importação, manipulação e visualização de dados usando as principais bibliotecas, 
 11.2 Exercícios Numpy, 
+
 AULA 12  - MATPLOTLIB                                                                                                                                                                                                                                                                                                                 
 12.1 Exercícios com Nampy      
 12.2 Importação, manipulação e visualização de dados usando as principais bibliotecas, 
 12.3 Matplotlib;
+
 AULA 13 -  SCKIT-LEARN
 13.1 Importação, manipulação e visualização de dados usando as principais bibliotecas, 
 13.2 SCKIT-LEARN;
@@ -114,6 +124,7 @@ AULA 13 -  SCKIT-LEARN
 13.6 Regressão Logistica;
 13.7 Redes Neurais;
 13.8 +++AVALIAÇÃO 1
+
 AULA 14 - Introdução a Machine Learning
 14.1 Introdução a aprendizagem de máquina; 
 14.2 Conceitos básicos de Aprendizagem de máquina;
@@ -123,6 +134,7 @@ AULA 14 - Introdução a Machine Learning
 14.6 Métricas de Avaliação;
 14.7 Erros Comuns; 
 14.8 Manipulação de conjuntos de dados na prática; 
+
 AULA 15 - Machine Learning: e Introdução Redes Neurais
 15.1 Visão geral de redes neurais artificiais; 
 15.2 Principais algoritmos de redes neurais artificiais; 
@@ -131,13 +143,16 @@ AULA 15 - Machine Learning: e Introdução Redes Neurais
 15.5 Centróides mais próximos;
 15.6 K-means;
 15.7 Redes Neurais;
+
 AULA 16 – Redes Neurais
 16.1 Implementação de algoritmos básicos de machine learning; 
 16.2 Redes Neurais;
+
 AULA 17 – Redes Neurais
 17.1 Algoritmos de Redes Neurais Convolucionais; 
 17.2 Manipulação de Imagens usando Redes Neurais Convolucionais. 
 17.3 Projeto de Redes Neurais
+
 AULA 18 – Mini projeto
 18.1 PASSO 4 – TREINAR O MODELO
 1ª Etapa – CLASSIFICAÇÃO, REGRESSÃO, REDE SUPERVIONADA
@@ -149,7 +164,9 @@ Ajustes dos algoritmos
 Análise do melhor modelo
 Análise do viés do modelo
 18.3 PASSO 6 – APRESENTAR O MODELO
+
 AULA 19 - Mini projeto - Agendamento
 19.1 Agendamento para dúvidas sobre o projeto
 AULA 20 - DEFESA DO PROJETO   +++ AVALIAÇÃO 2
+
 20.1 APRESENTAÇÃO DOS MINIPROJETOS 
